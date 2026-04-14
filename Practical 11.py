@@ -7,4 +7,3 @@ def my_function():
     x=10 #local variable
 
 my_function() #output: 10
-print(x)
